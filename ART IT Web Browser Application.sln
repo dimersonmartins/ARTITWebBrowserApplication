@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ART IT Web Browser Application", "ART IT Web Browser Application\ART IT Web Browser Application.csproj", "{4BE33D2D-8E43-47D4-A7C4-56232073503F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Debug|x64.ActiveCfg = Debug|x64
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Debug|x64.Build.0 = Debug|x64
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Debug|x86.ActiveCfg = Debug|x86
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Debug|x86.Build.0 = Debug|x86
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Release|x64.ActiveCfg = Release|x64
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Release|x64.Build.0 = Release|x64
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Release|x86.ActiveCfg = Release|x86
+		{4BE33D2D-8E43-47D4-A7C4-56232073503F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3446ACC7-13A2-42EA-9B14-2A50F10728EC}
+	EndGlobalSection
+EndGlobal
